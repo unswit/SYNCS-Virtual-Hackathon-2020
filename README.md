@@ -18,8 +18,6 @@ After getting p
 
 
 
-[Contact me now!](https://elissavet.me/#contact)
-
 ## Just before you go...
 [Connect with us on LinkedIn]
 
