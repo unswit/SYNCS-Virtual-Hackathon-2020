@@ -21,6 +21,6 @@ After getting p
 [Contact me now!](https://elissavet.me/#contact)
 
 ## Just before you go...
-[Connect with us on LinkedIn](https://gr.linkedin.com/in/elitriant) -- [See my experiments on Codepen](https://codepen.io/elisavetTriant/)
+[Connect with us on LinkedIn]
 
 `⭐️ From [Project NaVi](https://github.com/unswit/SYNCS-Virtual-Hackathon-2020)`
